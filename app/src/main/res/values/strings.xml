@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">registration Form</string>
+    <string name="app_name">Registration Form</string>
     <string name="full_name">Full Name</string>
     <string name="Male" />
 </resources>
